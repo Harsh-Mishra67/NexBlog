@@ -15,23 +15,12 @@ With a responsive design, NexBLOG is optimized for smartphones, tablets, and com
 <br>•	Contact form for user feedback.
 <br>•	Enhanced security for user access and data protection.
 ## Technologies Used
-- Frontend:
-  <br>• React.js
-  <br>• Material-UI
-
-- Backend:
-  <br>• Node.js
-  <br>• Express.js
-
-- Database:
-  <br>• MongoDB
-  <br>• Mongoose
-
-- Authentication:
-  <br>• JWT (JSON Web Tokens)
-
-- HTTP Requests:
-  <br>• Axios
+- Frontend: React.js, Material-UI
+- Backend: Node.js, Express.js
+- Database: MongoDB, Mongoose
+- Authentication: JWT (JSON Web Tokens)
+- HTTP Requests: Axios
+- Web Technologies: HTML5, CSS3
 
 ## How to Use
 <br>1.Open the link. 
