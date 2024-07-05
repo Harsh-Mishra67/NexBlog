@@ -7,9 +7,13 @@ With a responsive design, NexBLOG is optimized for smartphones, tablets, and com
 ## Project deployed at
 <a href="https://harsh-mishra67.github.io/Recipe_Finder/">Recipe Finder</a>
 ## Features
-<br>•	Search for recipes by entering keywords
-<br>•	Display of recipe titles, images, and ingredient lists
-<br>•	Responsive design for seamless user experience on different devices
+<br>•	Secure user login and signup functionality.
+<br>• Manage blog posts with editing and deletion capabilities.
+<br>•	Comment system enabling user interaction.
+<br>•	Responsive design for various devices.
+<br>•	Image upload feature for posts.
+<br>•	Contact form for user feedback.
+<br>•	Enhanced security for user access and data protection.
 ## Technologies Used
 <br>•	HTML
 <br>•	CSS
