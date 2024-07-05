@@ -75,7 +75,7 @@ export const Comments = ({post})=>{
                 <Image src={url} alt='dp'/>
                 <StyledTextArea
                     minRows={5}
-                    placeholder="What's on your mind?"
+                    placeholder="Write your comment..."
                     value={comment.comments}
                     onChange={(e)=>handleChange(e)}
                 />
