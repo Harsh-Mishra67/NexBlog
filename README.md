@@ -15,10 +15,24 @@ With a responsive design, NexBLOG is optimized for smartphones, tablets, and com
 <br>•	Contact form for user feedback.
 <br>•	Enhanced security for user access and data protection.
 ## Technologies Used
-<br>•	HTML
-<br>•	CSS
-<br>•	JavaScript
-<br>•	Edamam API
+- Frontend:
+  <br>• React.js
+  <br>• Material-UI
+
+- Backend:
+  <br>• Node.js
+  <br>• Express.js
+
+- Database:
+  <br>• MongoDB
+  <br>• Mongoose
+
+- Authentication:
+  <br>• JWT (JSON Web Tokens)
+
+- HTTP Requests:
+  <br>• Axios
+
 ## How to Use
 <br>1.Open the link. 
 <br>2. Enter a recipe keyword in the search bar and click the "Find" button or press Enter.
