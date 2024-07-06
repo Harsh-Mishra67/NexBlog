@@ -4,8 +4,8 @@ NexBLOG is a comprehensive blogging platform that allows users to create, read, 
 NexBlog features a robust commenting system where users can interact by commenting on posts. Each user retains the ability to delete their own comments, ensuring a secure and organized interaction environment. The platform boasts strong security features for smooth signup, login, and logout processes, safeguarding user information and providing peace of mind.
 
 With a responsive design, NexBLOG is optimized for smartphones, tablets, and computers, ensuring a great experience on any device.
-## Project deployed at
-<a href="https://harsh-mishra67.github.io/Recipe_Finder/">Recipe Finder</a>
+## Demo Video Link
+<a href="https://drive.google.com/file/d/1tQnjP3nxfmqqqMIDhC66vFXyEhbYfoHO/view?usp=sharing">NexBlog</a>
 ## Features
 <br>•	Secure user login and signup functionality.
 <br>• Manage blog posts with editing and deletion capabilities.
